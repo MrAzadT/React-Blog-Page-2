@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.a029188f.chunk.js",
+    "main.js.map": "/static/js/main.a029188f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.37829358.js",
+    "runtime-main.js.map": "/static/js/runtime-main.37829358.js.map",
+    "static/js/2.5a86abaf.chunk.js": "/static/js/2.5a86abaf.chunk.js",
+    "static/js/2.5a86abaf.chunk.js.map": "/static/js/2.5a86abaf.chunk.js.map",
+    "static/js/3.87deac6b.chunk.js": "/static/js/3.87deac6b.chunk.js",
+    "static/js/3.87deac6b.chunk.js.map": "/static/js/3.87deac6b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5a86abaf.chunk.js.LICENSE.txt": "/static/js/2.5a86abaf.chunk.js.LICENSE.txt",
+    "static/media/bg.a474513d.jpg": "/static/media/bg.a474513d.jpg",
+    "static/media/bird.3a1420f2.jpg": "/static/media/bird.3a1420f2.jpg",
+    "static/media/khabar.39386a95.jpg": "/static/media/khabar.39386a95.jpg",
+    "static/media/phone.64417419.jpg": "/static/media/phone.64417419.jpg",
+    "static/media/saif.d2d846f3.jpeg": "/static/media/saif.d2d846f3.jpeg",
+    "static/media/tamal.26b5d5fc.jpg": "/static/media/tamal.26b5d5fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37829358.js",
+    "static/js/2.5a86abaf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a029188f.chunk.js"
+  ]
+}
